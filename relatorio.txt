@@ -1,0 +1,4 @@
+Relatório gerado em 13/06/2019
+id;origem;destino;valorTotal
+9;Praia;Fazenda;270.0
+10;Cidade;Resort;2000.0
